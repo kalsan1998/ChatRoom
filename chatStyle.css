@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(img/marbleBackground.jpg);
+}
+
+#header{
+
+}
+
+#container{
+    border: 10px double #a3a3c2;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    color: #ffffff;
+    background-color: #262626;
+    font-family: Candara;
+    width: 50%;
+    height: auto;
+    min-width: 200px;
+    max-width: 800px;
+    border-radius: 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+#chatText{
+    height: 500px;
+    overflow: auto;
+    border: 2px solid #a3a3c2;
+    padding: 5px 5px 5px 5px;
+    font-size: 16px;
+}
+
+#sendie{
+    width: 100%;
+}
