@@ -7,6 +7,23 @@ body{
     background: url(img/marbleBackground.jpg);
 }
 
+#github{
+    display: inline;
+}
+
+#github a{
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    text-decoration: crimson;
+}
+
+#githubIcon{
+    height: 50px;
+    position: relative;
+    top: 15px;
+}
+
 #header{
 
 }
